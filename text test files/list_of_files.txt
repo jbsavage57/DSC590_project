@@ -1,0 +1,1 @@
+D:\IU classes\DSC 590 NLP\project\DSC590_project\text test files\test_file0.txt,  D:\IU classes\DSC 590 NLP\project\DSC590_project\text test files\test_file1.txt
